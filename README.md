@@ -7,6 +7,7 @@ The overview of seq2seq+attention model is shown as follows:
 <div align='center'>
 <img src="./figure/1543793202(1.jpg"  alt="图片名称" align=center />
 </div>  
+Noth:
 The figure is from [paper](https://nlp.stanford.edu/pubs/luong-manning-iwslt15.pdf).
 
 ## 1. Dependency
