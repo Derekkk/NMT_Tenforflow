@@ -71,7 +71,7 @@ step: 10400, batch: 1030, loss: 1.1043615341186523
 ## 5. Trained Model
 
 You can download [ toy trained model](https://drive.google.com/open?id=1FKTU_vsE1qhcxA8LV2vbHTAA3xTHFUOP) for testing.   
-Note: the provided model is trained for 10 epochs without fine-tuning, and training loss is on above.
+Note: the provided model is trained for 10 epochs without fine-tuning, and training loss is shown above. No guarantee for optimal.
 
 ## 6. REFERENCE
 
