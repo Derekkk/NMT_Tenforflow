@@ -1,6 +1,8 @@
 # NMT_Tenforflow
 A simple Neural Machine Translation implementation using [Tensorflow seq2seq](https://www.tensorflow.org/api_guides/python/contrib.seq2seq).
 
+![1543793202(1](https://github.com/Derekkk/NMT_Tenforflow/raw/master/figure/1543793202(1.jpg)
+
 ## 1. Dependency
 - Python 3.5.2  
 - tensorflow (1.12.0)  
