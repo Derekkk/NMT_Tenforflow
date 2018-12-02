@@ -78,5 +78,7 @@ Note: the provided model is trained for 10 epochs without fine-tuning, and train
 1.  [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt)  
 2.  [Tensorflow seq2seq Implementation of Text Summarization.](https://github.com/dongjun-Lee/text-summarization-tensorflow)
  
-
-Note: Please feel free to contact if there are any questions, bugs or improvement suggestions.
+  
+    
+    
+**Note: Please feel free to contact if there are any questions, bugs or improvement suggestions : ) **
