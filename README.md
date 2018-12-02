@@ -9,8 +9,8 @@ A simple Neural Machine Translation implementation using [Tensorflow seq2seq](ht
 
 ## 2. DATA
 Using IWSLT'15 English-Vietnamese dataset from [Stanford NMT Project Web](https://nlp.stanford.edu/projects/nmt/).  
-- Train (133K sentence pairs): [data/iwslt15/train_2.en] [data/iwslt15/train_2.vi] 
-- Test:  [data/iwslt15/tst2012.en] [data/iwslt15/tst2012.vi] [data/iwslt15/tst2013.en] [data/iwslt15/tst2013.vi] 
+- Train (133K sentence pairs): [data/iwslt15/train_2.en](https://github.com/Derekkk/NMT_Tenforflow/tree/master/data/iwslt15) [data/iwslt15/train_2.vi](https://github.com/Derekkk/NMT_Tenforflow/tree/master/data/iwslt15)   
+- Test:  [data/iwslt15/tst2012.en](https://github.com/Derekkk/NMT_Tenforflow/tree/master/data/iwslt15) [data/iwslt15/tst2012.vi](https://github.com/Derekkk/NMT_Tenforflow/tree/master/data/iwslt15) [data/iwslt15/tst2013.en](https://github.com/Derekkk/NMT_Tenforflow/tree/master/data/iwslt15) [data/iwslt15/tst2013.vi](https://github.com/Derekkk/NMT_Tenforflow/tree/master/data/iwslt15) 
 
 ## 3. Usage
 - Python3 NMT.py train for training;
