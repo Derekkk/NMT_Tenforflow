@@ -7,7 +7,7 @@ The overview of seq2seq+attention model is shown as follows:
 <div align='center'>
 <img src="./figure/1543793202(1.jpg"  alt="图片名称" align=center />
 </div>  
-*The figure is from paper:[Stanford Neural Machine Translation Systems for Spoken Language Domains](https://nlp.stanford.edu/pubs/luong-manning-iwslt15.pdf)
+The figure is from paper:[Stanford Neural Machine Translation Systems for Spoken Language Domains](https://nlp.stanford.edu/pubs/luong-manning-iwslt15.pdf)
 
 ## 1. Dependency
 - Python 3.5.2  
