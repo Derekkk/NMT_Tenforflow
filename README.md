@@ -68,7 +68,12 @@ step: 10400, batch: 1030, loss: 1.1043615341186523
  Epoch 10: Model is saved. Elapsed: 37:11:54.28   
 ```
 
-## 5. REFERENCE
+## 5. Trained Model
+
+You can download [ toy trained model](https://drive.google.com/open?id=1FKTU_vsE1qhcxA8LV2vbHTAA3xTHFUOP) for testing.   
+Note: the provided model is trained for 10 epochs without fine-tuning, and training loss is on above.
+
+## 6. REFERENCE
 
 1.  [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt)  
 2.  [Tensorflow seq2seq Implementation of Text Summarization.](https://github.com/dongjun-Lee/text-summarization-tensorflow)
