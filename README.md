@@ -81,4 +81,4 @@ Note: the provided model is trained for 10 epochs without fine-tuning, and train
   
     
     
-**Note: Please feel free to contact if there are any questions, bugs or improvement suggestions : ) **
+**Note: Please feel free to contact if there are any questions, bugs or improvement suggestions : )**
