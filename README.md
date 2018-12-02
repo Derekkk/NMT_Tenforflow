@@ -5,8 +5,9 @@ A simple Neural Machine Translation implementation using [Tensorflow seq2seq](ht
 <img src="./figure/1543793202(1.jpg"  alt="图片名称" align=center />
 </div>  
 
-
+<div align='center'>
 Note: the figure is from this <a href="https://nlp.stanford.edu/pubs/luong-manning-iwslt15.pdf">paper</a>
+</div>  
 
 ## 1. Dependency
 - Python 3.5.2  
