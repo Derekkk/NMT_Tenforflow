@@ -21,9 +21,15 @@ Using IWSLT'15 English-Vietnamese dataset from [Stanford NMT Project Web](https:
 - Test:  [data/iwslt15/tst2012.en](https://github.com/Derekkk/NMT_Tenforflow/tree/master/data/iwslt15) [data/iwslt15/tst2012.vi](https://github.com/Derekkk/NMT_Tenforflow/tree/master/data/iwslt15) [data/iwslt15/tst2013.en](https://github.com/Derekkk/NMT_Tenforflow/tree/master/data/iwslt15) [data/iwslt15/tst2013.vi](https://github.com/Derekkk/NMT_Tenforflow/tree/master/data/iwslt15) 
 
 ## 3. Usage
+```
 - Python3 NMT.py train for training;
+````
+```
 - Python3 NMT.py test for testing;
+```
+```
 - Python3 NMT.py translate for loading trained model and translate in interaction mode.
+```
 
 ## 4. Results
 
