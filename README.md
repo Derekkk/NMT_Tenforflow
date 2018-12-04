@@ -33,7 +33,7 @@ Using IWSLT'15 English-Vietnamese dataset from [Stanford NMT Project Web](https:
 
 ## 4. Results
 
-After training for 10 epochs, BLEU score on testset is 16.835.
+After training for 10 epochs, BLEU score on testset is 18.3.
 
 ### Training log:
 ```
